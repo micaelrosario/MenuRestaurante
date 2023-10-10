@@ -1,5 +1,5 @@
 # [Café Camper Menu](https://micaelrosario.github.io/MenuRestaurante/)
-Imagem de Capa
+[Icon Café](https://cdn.freecodecamp.org/curriculum/css-cafe/coffee.jpg)
 
 ### Descrição
 Bem-vindo ao Café Camper Menu! Este projeto é um menu interativo para um café fictício, onde os clientes podem verificar os itens de café e sobremesas oferecidos. Ele foi desenvolvido para fins de aprendizado e demonstra como criar um menu atraente usando HTML e CSS.
